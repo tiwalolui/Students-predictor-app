@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 🎓 Student Performance Prediction (Machine Learning Project)
 
 Project Overview
@@ -11,7 +11,7 @@ The goal is to:
 - Build predictive models
 - Understand which features truly influence performance
 
----
+
 
 Dataset
 
@@ -100,6 +100,6 @@ Future Improvements
 - Build classification model (pass/fail prediction)
 - Deploy model as a web app
 - Perform feature scaling and advanced feature engineering
-=======
+  
 # Students-predictor-app
->>>>>>> b02f01b6fcff5af293bcbc9696dc9d8ad6b44002
+
